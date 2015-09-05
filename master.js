@@ -36,7 +36,7 @@ Game.draw = function() {
 	Game.drawRect("#fff", new Vector2(0, 0), Game.size.X, Game.size.Y);
 	Game.drawRect("#000080", new Vector2(25, 25), 100, 100);
 	 
-	Game.drawCircle("red", new Vector2(275, 275), 40, 0, 2 * Math.PI);	
+	Game.drawCircle("#FF0000", new Vector2(275, 275), 40, 0, 2 * Math.PI);	
 }
 
 
