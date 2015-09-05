@@ -1,4 +1,4 @@
- # HTML5 Scalable Canvas
+# HTML5 Scalable Canvas
 A simple scalable HTML5 canvas.
 
 # License
